@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Raleway:wght@800&display=swap');
+
+.verifier{
+    justify-content: center !important;
+    align-items: center !important;
+}
+.verifier-background{
+    align-items: center !important;
+    flex: 1 !important;
+    justify-content: center !important;
+    background-color: #0A1D37 !important;
+    display: flex !important;
+    height: 800px !important;
+}
+
+.title{
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 150px !important;
+    justify-content: center !important;
+    display: flex !important;
+    margin-top: 40px !important;
+    color: #FFBD9B !important;
+}
+
+.content-input{
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 50px !important;
+    justify-content: center !important;
+    display: flex !important;
+    margin-bottom: 30px !important;
+}
+
+.input{
+    background-color: #FFEEDB !important ;
+    color: #0A1D37 !important;
+}
+
+.btns{
+    align-items: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    flex: 1 !important;
+    margin: 10px !important;
+}
+
+.btn{
+    color: #FFBD9B !important;
+    border-color: #FFBD9B !important;
+}
+
+.v-btn{
+    display: flex !important;
+    flex: 1 !important;
+    color: #FFEEDB !important;
+    align-self: center !important;
+    background-color: #FFBD9B !important;
+    height: 60px !important;
+    font-size: 20px !important;
+    font-family: 'Raleway', sans-serif !important;
+}
